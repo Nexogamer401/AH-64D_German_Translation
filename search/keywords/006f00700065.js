@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ope",["Macro"],[["operations",,[[,"Logical operations",,,0,"File22:mpd_defines.hpp:Logical_operations"]]]]);

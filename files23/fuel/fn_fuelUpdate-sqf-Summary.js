@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File23:fuel/fn_fuelUpdate.sqf","fn_fuelUpdate.sqf");NDSummary.OnSummaryLoaded("File23:fuel/fn_fuelUpdate.sqf",[["SQF","SQF"]],[["Functions","Function"],["Groups","Group"]],[[69,0,1,"Functions","Functions"],[70,0,0,"fza_sfmplus_fnc_fuelUpdate","fza_sfmplus_fnc_fuelUpdate"]]);

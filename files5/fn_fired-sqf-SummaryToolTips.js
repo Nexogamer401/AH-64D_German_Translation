@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File5:fn_fired.sqf",{464:"<div class=\"NDToolTip TFunction LSQF\"><div class=\"TTSummary\">Schema of the &quot;fired&quot; event handler.</div></div>"});
